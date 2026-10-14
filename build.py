@@ -13,7 +13,7 @@ ADS_URL = '<a href="https://policies.google.com/technologies/ads">policies.googl
 # rows: [(veri, amaç)]
 P = {
 "en": dict(
- title="Bounce In Privacy Policy", date="Effective date: 13 October 2026",
+ title="Bounce In Privacy Policy", date="Effective date: 14 October 2026",
  intro="This policy explains what information the Bounce In mobile game (\"the game\", \"we\") collects, why, and what choices you have. Bounce In is developed by 256 Games (Onur Kansoy), who is the data controller.",
  h_sum="Summary", sum=[
   "No account, and no real name, email, phone number, contacts, location or photos are collected.",
@@ -22,11 +22,11 @@ P = {
   "The game shows optional rewarded ads from Google AdMob only when you choose to watch one."],
  h_col="Information we collect", th=("Data", "Purpose"), rows=[
   ("Random player ID created for your device, nickname, weekly best Tower floor and score", "Weekly Tower leaderboard: ranking you and showing your row"),
-  ("Anonymous usage data, only if \"Usage data\" is on: a random install ID, game version, system and language, and game events (for example level started / completed / failed, shots used, stars, floors reached, items bought)", "Balancing levels and improving the game"),
+  ("Anonymous usage data, only if \"Usage data\" is on: a random install ID, game version, system and language, and game events (for example level started / completed / failed, shots used, stars, floors reached, items bought, ad offers shown and watched, and whether Remove Ads was bought)", "Balancing levels, ads and the game"),
   ("Advertising ID, IP address and device information (collected by Google AdMob)", "Showing and measuring ads and preventing fraud; personalized ads only with your consent where required"),
   ("IP address", "Technically needed to connect to our server; not written to logs or stored with your data")],
  local="Your progress, settings, stars and records are stored on your device.",
- h_share="Sharing", share="We do not sell or rent your data, and we do not share it with advertisers or data brokers. Your nickname, best floor and score for the week are visible to other players on the leaderboard. Ads are provided by Google AdMob, which receives the data described in the Advertising section.",
+ h_share="Sharing", share="We do not sell or rent your data, and we do not share it with advertisers or data brokers. Your nickname, best floor and score for the week are visible to other players on the leaderboard. Ads are provided by Google AdMob, which receives the data described in the Advertising section. The optional Remove Ads purchase is processed by Google Play; we never see your payment details, only whether the purchase was made.",
  h_ads="Advertising",
  ads="The game only shows optional rewarded ads from Google AdMob: when you run out of balls in a level you can choose to watch an ad for extra balls. There are no ads you are forced to watch. Google may collect and use your device's advertising ID, IP address and device information to show and measure ads and to prevent fraud, as described in Google's policy: {url}. In the EEA, the UK and Switzerland, the game asks for your consent with Google's consent form before personalized ads are shown; you can change your choice at any time in <strong>Settings → Privacy options</strong>. You can reset or delete your advertising ID in your device settings.",
  h_sec="Storage and security", sec="Leaderboard and usage data are stored on our server, a virtual private server provided by Natro (Türkiye). Traffic between the game and the server is encrypted (HTTPS), and the game only connects to our server's own certificate.",
@@ -36,7 +36,7 @@ P = {
  h_chg="Changes", chg="If this policy changes, we will update this page and the effective date above. Significant changes will also be announced in the game.",
  h_contact="Contact"),
 "tr": dict(
- title="Bounce In Gizlilik Politikası", date="Yürürlük tarihi: 13 Ekim 2026",
+ title="Bounce In Gizlilik Politikası", date="Yürürlük tarihi: 14 Ekim 2026",
  intro="Bu politika, Bounce In mobil oyununun (\"oyun\", \"biz\") hangi bilgileri neden topladığını ve senin hangi seçeneklere sahip olduğunu açıklar. Oyunun geliştiricisi ve veri sorumlusu 256 Games (Onur Kansoy)'dur.",
  h_sum="Özet", sum=[
   "Hesap yoktur; gerçek ad, e-posta, telefon numarası, rehber, konum ya da fotoğraf toplanmaz.",
@@ -45,11 +45,11 @@ P = {
   "Oyun, Google AdMob'un isteğe bağlı ödüllü reklamlarını yalnızca sen izlemeyi seçtiğinde gösterir."],
  h_col="Toplanan bilgiler", th=("Veri", "Amaç"), rows=[
   ("Cihazın için oluşturulan rastgele oyuncu kimliği, takma ad, haftalık en iyi Kule katı ve puanı", "Haftalık Kule sıralaması: seni sıralamak ve satırını göstermek"),
-  ("Anonim kullanım verisi, yalnızca \"Kullanım verisi\" açıksa: rastgele kurulum kimliği, oyun sürümü, sistem ve dil, oyun olayları (örneğin bölüm başladı / bitti / kaybedildi, kullanılan atış, yıldız, ulaşılan kat, satın alınan nesneler)", "Bölümleri dengelemek ve oyunu iyileştirmek"),
+  ("Anonim kullanım verisi, yalnızca \"Kullanım verisi\" açıksa: rastgele kurulum kimliği, oyun sürümü, sistem ve dil, oyun olayları (örneğin bölüm başladı / bitti / kaybedildi, kullanılan atış, yıldız, ulaşılan kat, satın alınan nesneler, gösterilen ve izlenen reklam teklifleri, Reklamları kaldır'ın alınıp alınmadığı)", "Bölümleri, reklamları ve oyunu dengelemek"),
   ("Reklam kimliği, IP adresi ve cihaz bilgisi (Google AdMob tarafından toplanır)", "Reklam göstermek ve ölçmek, sahtekârlığı önlemek; kişiselleştirilmiş reklam yalnızca gerektiği yerde onayınla"),
   ("IP adresi", "Sunucumuza bağlanmak için teknik olarak gerekir; günlüklere yazılmaz, verilerinle birlikte saklanmaz")],
  local="İlerlemen, ayarların, yıldızların ve rekorların cihazında saklanır.",
- h_share="Paylaşım", share="Verilerini satmayız, kiralamayız; reklamcılarla ya da veri simsarlarıyla paylaşmayız. Takma adın, haftanın en iyi katı ve puanın sıralamada diğer oyunculara görünür. Reklamlar, Reklamlar bölümünde anlatılan verileri alan Google AdMob tarafından sağlanır.",
+ h_share="Paylaşım", share="Verilerini satmayız, kiralamayız; reklamcılarla ya da veri simsarlarıyla paylaşmayız. Takma adın, haftanın en iyi katı ve puanın sıralamada diğer oyunculara görünür. Reklamlar, Reklamlar bölümünde anlatılan verileri alan Google AdMob tarafından sağlanır. İsteğe bağlı Reklamları kaldır satın alması Google Play tarafından işlenir; ödeme bilgilerini hiç görmeyiz, yalnızca satın almanın yapılıp yapılmadığını biliriz.",
  h_ads="Reklamlar",
  ads="Oyun yalnızca Google AdMob'un isteğe bağlı ödüllü reklamlarını gösterir: bir bölümde topların bitince, ek top için reklam izlemeyi seçebilirsin. İzlemeye zorlandığın reklam yoktur. Google, reklam göstermek ve ölçmek ve sahtekârlığı önlemek için cihazının reklam kimliğini, IP adresini ve cihaz bilgilerini toplayıp kullanabilir; ayrıntılar Google'ın politikasında: {url}. AEA, Birleşik Krallık ve İsviçre'de oyun, kişiselleştirilmiş reklam göstermeden önce Google'ın onay formuyla onayını ister; seçimini istediğin zaman <strong>Ayarlar → Gizlilik seçenekleri</strong> bölümünden değiştirebilirsin. Reklam kimliğini cihazının ayarlarından sıfırlayabilir ya da silebilirsin.",
  h_sec="Saklama ve güvenlik", sec="Sıralama ve kullanım verileri, Natro (Türkiye) tarafından sağlanan sanal sunucumuzda saklanır. Oyunla sunucu arasındaki trafik şifrelidir (HTTPS) ve oyun yalnızca sunucumuzun kendi sertifikasına bağlanır.",
